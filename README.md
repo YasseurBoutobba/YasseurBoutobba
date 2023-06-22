@@ -1,14 +1,17 @@
 # 💻 Yasseur Boutobba 🖋
 
 **`Entry-Level Frontend Developer / CS Student `**
-<img align="right" alt="coding gif" width="400"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding gif" width="400" src="https://64.media.tumblr.com/2c9275fbd4f718b17190bf9af2fdbbab/tumblr_oi92i9QCQI1vmu6d3o1_1280.jpg">
+## 🖤 About Me
 * 🌏  I'm based in Algeria
+* 🎓 Computer Engineernig Student at ESTIN
 * 🧠  I'm learning Full Stack Web Developement ( MERN Stack )
 * 🤝  I'm open to collaborating on any intersting Frontend based projects
 * ✉️  You can contact me at [y\_boutobba@estin.dz](mailto:y_boutobba@estin.dz)
   
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasseur-boutobba-393678260/) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073312523987) 
+
 
 ---
 
@@ -30,5 +33,5 @@
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-    I embarked on my coding journey as an enthusiastic computer science student, driven by an insatiable thirst for knowledge in the vast realm of programming. Eager to explore various aspects like Data Structures, Algorithms, and Operating Systems, I devoted myself to understanding these fundamental concepts. Concurrently, I took it upon myself to delve into self-taught Frontend Web Development, fueled by a profound aspiration to create my own website. However, due to the realization that there is still much to learn, I had to postpone the realization of this dream. It has been nearly a year since I embarked on this computer science odyssey, and I am well aware that the path ahead is arduous and challenging. Nevertheless, I am confident in my ability to persevere through this ongoing learning journey, driven by the motto, "Don't wait up, because I'm coming."
+  I started my coding journey as a passionate computer engineering student, eager to expand my knowledge in programming. I dived into various areas like Data Structures, Algorithms, and Operating Systems, aiming to grasp the foundational concepts. Alongside, I also self-taught myself Frontend Web Development with the goal of creating my own website. However, I realized there is still much to learn, so I had to postpone that dream. It's been almost a year since I started this computer science adventure, and I know the road ahead will be challenging. Nevertheless, I am determined to keep pushing forward with the motto, "Don't wait up, because I'm coming."
 
