@@ -33,7 +33,3 @@
 </p>
 
 
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  I started my coding journey as a passionate computer engineering student, eager to expand my knowledge in programming. I dived into various areas like Data Structures, Algorithms, and Operating Systems, aiming to grasp the foundational concepts. Alongside, I also self-taught myself Frontend Web Development with the goal of creating my own website. However, I realized there is still much to learn, so I had to postpone that dream. It's been almost a year since I started this computer science adventure, and I know the road ahead will be challenging. Nevertheless, I am determined to keep pushing forward with the motto, "Don't wait up, because I'm coming."
-
