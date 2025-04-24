@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=YasseurBoutobba&theme=transparent&border=DDDDDD&ring=00f7d2&fire=00f7d2&currStreakNum=00f7d2&sideNums=00f7d2&dates=999999" 
+    src="https://nirzak-streak-stats.vercel.app?user=YasseurBoutobba&theme=transparent&border=DDDDDD&ring=00f7d2&fire=00f7d2&currStreakNum=00f7d2&sideNums=00f7d2&dates=999999" 
     alt="yasseur streak stats" 
   />
 </p>
